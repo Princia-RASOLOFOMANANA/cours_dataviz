@@ -2,6 +2,7 @@
 Voici trois mauvaises exemples de visualisation de données:
 
 1) Diagramme en camembert des 100 tweeters les plus actifs
+![Camembert des tweeters](images/bad_pie_chart.jpg)
 - SOURCE: Chandoo - article de ReWriteWeb intitulé “10 ways to archive your tweets”
 
 - CE QUE LE GRAPHIQUE REPRESENTE:
@@ -23,6 +24,7 @@ Voici trois mauvaises exemples de visualisation de données:
 
 
 2) Popularité de Gustavo Petro vs Fico Gutiérrez
+![Popularité Petro vs Fico](images/lying_lines.png)
 - SOURCE: Graphique diffusé dans l’émission La Gran Encuesta – Colombia Elige
 
 - CE QUE LE GRAPHIQUE REPRESENTE:
@@ -44,6 +46,7 @@ Voici trois mauvaises exemples de visualisation de données:
 
 
 3) Graphique 3D sur la méthylation des cancers
+![Graphique 3D méthylation](images/3D_graph.png)
 - SOURCE: Article Human Molecular Genetics (2007), 16:R50–59
 
 - CE QUE LE GRAPHIQUE REPRESENTE:
