@@ -12,11 +12,11 @@ Voici trois mauvaises exemples de visualisation de données:
   La légende est très longue et on ne sait pas à quelle part chaque catégorie correspond
   Donc on ne comprendra rien
 
-- PRINCIPES NON RESPECTES
+- PRINCIPES NON RESPECTES:
   Lisibilité
   Intégrité
 
-- COMMENT LE CORRIGER
+- COMMENT LE CORRIGER:
   Remplacer le diagramme en camembert par un diagramme en barre
   Pour ne pas charger le graphique, on pourrait juste afficher un top 10 ou top 20
 
@@ -32,11 +32,11 @@ Voici trois mauvaises exemples de visualisation de données:
   Les deux graphiques n'ont pas la même échelle (un 33% est placé plus haut qu'un 25%)
   Si on regarde juste les lignes, on croit que Fico est plus populaire que Petro, alors que ce n'est pas le cas, donc cette visualisation est trompeuse
 
-- PRINCIPES NON RESPECTES
+- PRINCIPES NON RESPECTES:
   Complétude
   Intégrité
 
-- COMMENT LE CORRIGER
+- COMMENT LE CORRIGER:
   On pourrait réaliser un graphique en lignes simple, avec les deux courbes sur le même axe
   On pourrait rajouter un titre clair comme "Evolution de la popularité (en %)"
 
@@ -53,7 +53,7 @@ Voici trois mauvaises exemples de visualisation de données:
   L'affichage 3D ajoute de la confusion car certaines barres sont cachées, et les hauteurs sont faussées par la perspective
   On passe plus de temps à essayer de comprendre la forme qu'à lire les données
 
-- PRINCIPES NON RESPECTES
+- PRINCIPES NON RESPECTES:
   Lisibilité
 
 - COMMENT LE CORRIGER
