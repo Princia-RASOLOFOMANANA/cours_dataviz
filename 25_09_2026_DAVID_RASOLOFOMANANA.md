@@ -4,7 +4,7 @@ VCOD Gr33
 
 TOP 10 DES COMMUNES D’ILE-DE-FRANCE LES MOINS DISPONIBLES EN VELIB
 
-![Visuel Velib](TOP10_indispo_velib/Visuel.png)
+![Visuel Velib](images/TOP10_indispo_velib.png)
 
 
 
