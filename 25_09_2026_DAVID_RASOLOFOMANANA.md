@@ -35,7 +35,7 @@ Pourquoi c'est utile. Ce graphique montre les communes où l'on a le moins de ch
 
 L'utilisateur cible. Ce graphique s'adresse surtout au gestionnaire du service, c'est-à-dire Île-de-France Mobilités et l'opérateur Vélib' Métropole, et aux services mobilité des communes. Les usagers réguliers peuvent aussi s'en servir pour savoir où le service est moins fiable.
 
-L'impact sur la décision. Avec ce classement, le gestionnaire sait où agir en premier. Il peut envoyer plus de vélos dans les communes les plus vides, comme Le Pré-Saint-Gervais, Chaville ou Villejuif. Il peut aussi se demander si certaines stations sont bien placées ou assez grandes. Et en refaisant le graphique plus tard, il voit si ses actions ont eu un effet.
+Effet sur la décision du lecteur. Avec ce classement, le gestionnaire sait où agir en premier. Il peut envoyer plus de vélos dans les communes les plus vides, comme Le Pré-Saint-Gervais, Chaville ou Villejuif. Il peut aussi se demander si certaines stations sont bien placées ou assez grandes. Et en refaisant le graphique plus tard, il voit si ses actions ont eu un effet.
 
 Pourquoi cette visualisation. On a choisi un graphique à barres horizontales parce qu'il permet de comparer facilement des communes. Le tri met la commune la plus en difficulté en premier. Enfin, on a gardé seulement 10 communes pour ne pas surcharger le graphique et se concentrer sur les cas les plus urgents.
 
