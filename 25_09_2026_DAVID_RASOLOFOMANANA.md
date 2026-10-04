@@ -24,6 +24,7 @@ DIVIDE(
     0
 )
 Ensuite, on a construit le graphique. On a mis les communes sur l'axe vertical et le taux de disponibilité sur l'axe horizontal. Puis on a gardé seulement les 10 communes avec le taux le plus bas. On a trié du plus petit au plus grand, pour que la commune la moins disponible soit tout en haut.
+
 Pour lire une valeur, il faut comprendre que le taux montre la part des places occupées par un vélo disponible. Au Pré-Saint-Gervais, le taux est de 2,38 %, soit environ 2 vélos pour 100 places : les stations sont presque vides. À Montreuil, il est de 16,18 %, soit environ 16 vélos pour 100 places. 
 
 
