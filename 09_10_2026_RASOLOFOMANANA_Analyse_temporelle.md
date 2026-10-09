@@ -1,10 +1,10 @@
-#3 visualisations dans le temps#
+#3 visualisations dans le temps
 
 **Santatriniaina RASOLOFOMANANA - BUT3FA VCOD - Groupe 33**
 
 
 
-##Graphique 1: le poids de l’agriculture dans l’économie française##
+##Graphique 1: le poids de l’agriculture dans l’économie française
 
 ![agriculture](images/agriculture.png)
 
@@ -19,7 +19,7 @@ La courbe est le bon choix ici, parce qu’on veut montrer une évolution sur le
 
 
 
-##Graphique 2: la température de l’hémisphère Nord##
+##Graphique 2: la température de l’hémisphère Nord
 
 ![temperature](images/temperature.jpg)
 
@@ -34,7 +34,7 @@ La courbe est lissée, ce qui efface les petites variations d’une année à l�
 
 
 
-##Graphique 3: l’inflation en France##
+##Graphique 3: l’inflation en France
 
 ![inflation](images/inflation.png)
 
