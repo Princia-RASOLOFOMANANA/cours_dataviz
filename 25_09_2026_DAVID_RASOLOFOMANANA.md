@@ -2,7 +2,7 @@
 
 **Christella DAVID — Santatriniaina RASOLOFOMANANA — VCOD Gr33**
 
-![Visuel Velib](images/TOP10_indispo_velib.png)![Visuel Velib](images/TOP10_indispo_velib.png)
+![Visuel Velib](images/TOP10_indispo_velib.png)
 
 **Source de données :** [Jeu de données – Vélib' – Vélos et bornes – Disponibilité temps réel | data.gouv.fr](https://www.data.gouv.fr/datasets/velib-velos-et-bornes-disponibilite-temps-reel)
 
