@@ -30,7 +30,7 @@ Chaque année est comparée à une température de référence, la moyenne de 19
 Entre 1880 et 1940, les températures sont inférieures à cette référence, avec un point bas vers 1910, à environ -0,45 °C. 
 Ensuite, elles fluctuent jusque dans les années 1970. 
 À partir de cette période, la hausse devient rapide et presque continue : au début des années 2000, l’écart dépasse +0,6 °C. 
-La courbe est lissée, ce qui efface les petites variations d’une année à l’autre pour ne garder que l’évolution générale.
+La courbe est lissée, elle efface les petites variations d’une année à l’autre pour ne garder que l’évolution générale.
 
 
 
@@ -45,4 +45,4 @@ Il montre l’évolution annuelle des prix à la consommation, en pourcentage, d
 On distingue trois grandes périodes. D’abord les années 1950, très instables, avec des pics autour de 16 % et même une courte déflation. 
 Ensuite les années 1970 et le début des années 1980, l’inflation dépasse 13 %. 
 Puis, à partir du milieu des années 1980, une longue période de stabilité, autour de 2 % ou moins. 
-Et tout à droite, le point rouge met en avant 2022, où l’inflation remonte brutalement à environ 5 %. La courbe est le bon choix, parce qu’on veut montrer une évolution dans le temps, et le point rouge attire le regard sur le message principal qui est le retour de l’inflation après des décennies de calme.
+Et tout à droite, le point rouge met en avant 2022, où l’inflation remonte brutalement à environ 5 %. La courbe est le bon choix, parce qu’on veut montrer une évolution dans le temps.
