@@ -4,7 +4,7 @@
 
 Ce dashboard répond à une problématique : quels fans de GTA 6 sont prêts à précommander, et quel message leur adresser ?
 
-![images](GTA6.png)
+![GTA6](images/GTA6.png)
 
 
 - **Source:** https://www.kaggle.com/datasets/uditjain13/gta-6-fan-expectations-and-hype-survey-2026
