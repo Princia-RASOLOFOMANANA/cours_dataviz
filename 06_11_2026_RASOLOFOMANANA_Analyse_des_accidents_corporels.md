@@ -40,7 +40,7 @@ La carte est une carte de densité en hexagones : la région est découpée en h
 
 ## 4. Seconde visualisation : accidents selon l'heure
 
-![Nombre moyen d'accidents par heure](img/heure_accidents_2025.png)
+![Nombre moyen d'accidents par heure](images/heure_accidents_2025.png)
 
 Cette courbe montre le nombre moyen d'accidents par jour pour chaque heure de la journée, avec une courbe bleue pour lundi à vendredi et une courbe marron pour samedi et dimanche. J'ai choisi la période parce que la carte dit où ont lieu les accidents, et la courbe dit quand. J'ai choisi une courbe parce que les heures se suivent dans un ordre : la ligne montre bien la forme de la journée et fait ressortir les pics. J'ai calculé une moyenne par jour parce qu'il y a 5 jours de semaine contre 2 de week-end, donc les totaux ne seraient pas comparables. Ce graphique est utile aux collectivités, à la sécurité routière et aux forces de l'ordre pour savoir à quelles heures agir et contrôler, ainsi qu'aux automobilistes.
 
