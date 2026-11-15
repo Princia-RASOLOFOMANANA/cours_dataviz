@@ -19,7 +19,7 @@
 **Ce que j'ai fait :**
 - Filtre sur `dep` pour garder les 8 départements d'Île-de-France.
 - Virgule remplacée par un point dans `lat` et `long`, puis conversion en nombres.
-- Coordonnées filtrées (seule la zone Île-de-France a été sélectionnée).
+- Coordonnées fausses supprimées (hors de la zone Île-de-France).
 - Heure extraite en nombre entier de 0 à 23, date transformée en jour de la semaine.
 
 **Variables utilisées :**
